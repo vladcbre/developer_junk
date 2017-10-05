@@ -19,6 +19,9 @@ module.exports = {
         ],
         "curly": [
             "error", "multi-line"
+        ],
+        "semi": [
+            "error", "always"
         ]
     }
 }
